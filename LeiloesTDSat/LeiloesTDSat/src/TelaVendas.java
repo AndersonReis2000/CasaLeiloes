@@ -18,7 +18,7 @@ public class TelaVendas extends javax.swing.JFrame {
      */
     public TelaVendas() {
         initComponents();
-        listarProdutosVendidos();
+        listarProdutosVendidos(); 
     }
 
     /**
